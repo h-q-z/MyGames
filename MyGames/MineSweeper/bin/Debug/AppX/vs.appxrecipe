@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LIFEISBEAUTIFUL</Machine>
+    <WindowsUser>Helen</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>af9f1c67-18e6-44ae-bc99-b69757ed4a7c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>5DFFCA9742921DF0FBB3EFF334229A79F1C7C2650F6846B77ECD225D2B9E3039</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>af9f1c67-18e6-44ae-bc99-b69757ed4a7c_1.0.0.0_neutral__0v7wyzntcgtm2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>af9f1c67-18e6-44ae-bc99-b69757ed4a7c_0v7wyzntcgtm2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>af9f1c67-18e6-44ae-bc99-b69757ed4a7c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Helen</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-03T02:05:47.184</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\css\styles.css">
+      <PackagePath>css\styles.css</PackagePath>
+      <Modified>2015-06-03T01:22:27.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2014-06-02T21:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\images\flag.png">
+      <PackagePath>images\flag.png</PackagePath>
+      <Modified>2015-06-03T01:22:27.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T21:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\images\mine.png">
+      <PackagePath>images\mine.png</PackagePath>
+      <Modified>2015-06-03T01:22:27.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T21:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T21:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T21:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\images\git.jpg">
+      <PackagePath>images\git.jpg</PackagePath>
+      <Modified>2015-06-03T01:22:27.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2015-06-03T01:22:27.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\js\minesweeper.js">
+      <PackagePath>js\minesweeper.js</PackagePath>
+      <Modified>2015-06-03T01:22:27.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-06-03T02:05:47.051</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
