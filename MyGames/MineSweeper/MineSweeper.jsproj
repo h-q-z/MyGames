@@ -35,7 +35,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>213044ca-af15-403a-94ec-4f201e122d70</ProjectGuid>
+    <ProjectGuid>254158af-a16f-4ff6-81a9-3677599dbd0f</ProjectGuid>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0'">
@@ -49,46 +49,24 @@
     <RequiredPlatformVersion>8.1</RequiredPlatformVersion>
     <MinimumVisualStudioVersion>12.0</MinimumVisualStudioVersion>
     <DefaultLanguage>en-US</DefaultLanguage>
-    <PackageCertificateKeyFile>2048_TemporaryKey.pfx</PackageCertificateKeyFile>
+    
+    <PackageCertificateKeyFile>MineSweeper_TemporaryKey.pfx</PackageCertificateKeyFile>
+    
   </PropertyGroup>
   <ItemGroup>
     <AppxManifest Include="package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
+    <Content Include="default.html" />
     <Content Include="images\logo.scale-100.png" />
     <Content Include="images\smalllogo.scale-100.png" />
     <Content Include="images\splashscreen.scale-100.png" />
     <Content Include="images\storelogo.scale-100.png" />
-    <Content Include="index.html" />
-    <Content Include="style\font\clear-sans.css" />
-    <Content Include="style\font\ClearSans-Bold-webfont.eot" />
-    <Content Include="style\font\ClearSans-Bold-webfont.svg" />
-    <Content Include="style\font\ClearSans-Bold-webfont.woff" />
-    <Content Include="style\font\ClearSans-Light-webfont.eot" />
-    <Content Include="style\font\ClearSans-Light-webfont.svg" />
-    <Content Include="style\font\ClearSans-Light-webfont.woff" />
-    <Content Include="style\font\ClearSans-Regular-webfont.eot" />
-    <Content Include="style\font\ClearSans-Regular-webfont.svg" />
-    <Content Include="style\font\ClearSans-Regular-webfont.woff" />
-    <Content Include="style\helpers.scss" />
-    <Content Include="style\main.css" />
-    <Content Include="style\main.scss" />
-    <Content Include="default.html" />
-    <Content Include="js\animframe_polyfill.js" />
-    <Content Include="js\application.js" />
-    <Content Include="js\bind_polyfill.js" />
-    <Content Include="js\classlist_polyfill.js" />
     <Content Include="js\default.js" />
-    <Content Include="js\game_manager.js" />
-    <Content Include="js\grid.js" />
-    <Content Include="js\html_actuator.js" />
-    <Content Include="js\keyboard_input_manager.js" />
-    <Content Include="js\local_storage_manager.js" />
-    <Content Include="js\tile.js" />
-    <Content Include="meta\apple-touch-icon.png" />
-    <Content Include="meta\apple-touch-startup-image-640x1096.png" />
-    <Content Include="meta\apple-touch-startup-image-640x920.png" />
-    <None Include="2048_TemporaryKey.pfx" />
+    <Content Include="css\default.css" />
+    
+    <None Include="MineSweeper_TemporaryKey.pfx" />
+    
   </ItemGroup>
   <ItemGroup>
     <SDKReference Include="Microsoft.WinJS.2.0, Version=1.0" />

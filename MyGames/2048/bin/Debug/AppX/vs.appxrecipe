@@ -7,7 +7,7 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>213044ca-af15-403a-94ec-4f201e122d70</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Helen\Documents\GitHub\2048\2048\bld\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\bld\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>1BD09B3066CD3BF9500116862C2AF3FBCA13CEB67EF517176A5D1849D71C2E51</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>213044ca-af15-403a-94ec-4f201e122d70_1.0.0.0_neutral__0v7wyzntcgtm2</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>213044ca-af15-403a-94ec-4f201e122d70_0v7wyzntcgtm2!App</RegisteredUserModeAppID>
@@ -17,152 +17,144 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Helen\Documents\GitHub\2048\2048\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-06-03T00:58:32.002</Modified>
+      <Modified>2015-06-03T01:26:35.807</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\images\logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\images\logo.scale-100.png">
       <PackagePath>images\logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2014-06-02T21:38:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\images\smalllogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\images\smalllogo.scale-100.png">
       <PackagePath>images\smalllogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2014-06-02T21:38:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\images\splashscreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\images\splashscreen.scale-100.png">
       <PackagePath>images\splashscreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2014-06-02T21:38:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\images\storelogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\images\storelogo.scale-100.png">
       <PackagePath>images\storelogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2014-06-02T21:38:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\meta\apple-touch-icon.png">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\meta\apple-touch-icon.png">
       <PackagePath>meta\apple-touch-icon.png</PackagePath>
       <Modified>2015-06-02T00:05:55.719</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\meta\apple-touch-startup-image-640x1096.png">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\meta\apple-touch-startup-image-640x1096.png">
       <PackagePath>meta\apple-touch-startup-image-640x1096.png</PackagePath>
       <Modified>2015-06-02T00:05:55.720</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\meta\apple-touch-startup-image-640x920.png">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\meta\apple-touch-startup-image-640x920.png">
       <PackagePath>meta\apple-touch-startup-image-640x920.png</PackagePath>
       <Modified>2015-06-02T00:05:55.772</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\index.html">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\index.html">
       <PackagePath>index.html</PackagePath>
       <Modified>2015-06-02T00:05:55.690</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\default.html">
-      <PackagePath>default.html</PackagePath>
-      <Modified>2015-06-03T00:26:58.451</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\style\font\clear-sans.css">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\style\font\clear-sans.css">
       <PackagePath>style\font\clear-sans.css</PackagePath>
       <Modified>2015-06-02T00:05:55.789</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\style\main.css">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\style\main.css">
       <PackagePath>style\main.css</PackagePath>
       <Modified>2015-06-02T00:05:55.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\style\font\ClearSans-Bold-webfont.eot">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\style\font\ClearSans-Bold-webfont.eot">
       <PackagePath>style\font\ClearSans-Bold-webfont.eot</PackagePath>
       <Modified>2015-06-02T00:05:55.775</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\style\font\ClearSans-Light-webfont.eot">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\style\font\ClearSans-Light-webfont.eot">
       <PackagePath>style\font\ClearSans-Light-webfont.eot</PackagePath>
       <Modified>2015-06-02T00:05:55.780</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\style\font\ClearSans-Regular-webfont.eot">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\style\font\ClearSans-Regular-webfont.eot">
       <PackagePath>style\font\ClearSans-Regular-webfont.eot</PackagePath>
       <Modified>2015-06-02T00:05:55.785</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\style\font\ClearSans-Bold-webfont.svg">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\style\font\ClearSans-Bold-webfont.svg">
       <PackagePath>style\font\ClearSans-Bold-webfont.svg</PackagePath>
       <Modified>2015-06-02T00:05:55.777</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\style\font\ClearSans-Light-webfont.svg">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\style\font\ClearSans-Light-webfont.svg">
       <PackagePath>style\font\ClearSans-Light-webfont.svg</PackagePath>
       <Modified>2015-06-02T00:05:55.782</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\style\font\ClearSans-Regular-webfont.svg">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\style\font\ClearSans-Regular-webfont.svg">
       <PackagePath>style\font\ClearSans-Regular-webfont.svg</PackagePath>
       <Modified>2015-06-02T00:05:55.786</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\style\font\ClearSans-Bold-webfont.woff">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\style\font\ClearSans-Bold-webfont.woff">
       <PackagePath>style\font\ClearSans-Bold-webfont.woff</PackagePath>
       <Modified>2015-06-02T00:05:55.778</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\style\font\ClearSans-Light-webfont.woff">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\style\font\ClearSans-Light-webfont.woff">
       <PackagePath>style\font\ClearSans-Light-webfont.woff</PackagePath>
       <Modified>2015-06-02T00:05:55.783</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\style\font\ClearSans-Regular-webfont.woff">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\style\font\ClearSans-Regular-webfont.woff">
       <PackagePath>style\font\ClearSans-Regular-webfont.woff</PackagePath>
       <Modified>2015-06-02T00:05:55.788</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\style\helpers.scss">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\style\helpers.scss">
       <PackagePath>style\helpers.scss</PackagePath>
       <Modified>2015-06-02T00:05:55.790</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\style\main.scss">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\style\main.scss">
       <PackagePath>style\main.scss</PackagePath>
       <Modified>2015-06-02T00:05:55.793</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\js\animframe_polyfill.js">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\js\animframe_polyfill.js">
       <PackagePath>js\animframe_polyfill.js</PackagePath>
       <Modified>2015-06-02T00:05:55.691</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\js\application.js">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\js\application.js">
       <PackagePath>js\application.js</PackagePath>
       <Modified>2015-06-02T00:05:55.691</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\js\bind_polyfill.js">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\js\bind_polyfill.js">
       <PackagePath>js\bind_polyfill.js</PackagePath>
       <Modified>2015-06-02T00:05:55.692</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\js\classlist_polyfill.js">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\js\classlist_polyfill.js">
       <PackagePath>js\classlist_polyfill.js</PackagePath>
       <Modified>2015-06-02T00:05:55.714</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\js\default.js">
-      <PackagePath>js\default.js</PackagePath>
-      <Modified>2014-03-14T06:15:36.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\js\game_manager.js">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\js\game_manager.js">
       <PackagePath>js\game_manager.js</PackagePath>
       <Modified>2015-06-02T00:05:55.715</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\js\grid.js">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\js\grid.js">
       <PackagePath>js\grid.js</PackagePath>
       <Modified>2015-06-02T00:05:55.715</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\js\html_actuator.js">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\js\html_actuator.js">
       <PackagePath>js\html_actuator.js</PackagePath>
       <Modified>2015-06-02T00:05:55.716</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\js\keyboard_input_manager.js">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\js\keyboard_input_manager.js">
       <PackagePath>js\keyboard_input_manager.js</PackagePath>
       <Modified>2015-06-02T00:05:55.717</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\js\local_storage_manager.js">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\js\local_storage_manager.js">
       <PackagePath>js\local_storage_manager.js</PackagePath>
       <Modified>2015-06-02T00:05:55.717</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\js\tile.js">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\js\tile.js">
       <PackagePath>js\tile.js</PackagePath>
       <Modified>2015-06-02T00:05:55.718</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\2048\2048\bin\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-06-03T00:58:31.940</Modified>
+      <Modified>2015-06-03T01:26:35.751</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
