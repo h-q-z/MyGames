@@ -7,53 +7,53 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>af9f1c67-18e6-44ae-bc99-b69757ed4a7c</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\bld\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MineSweeper\bld\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MineSweeper\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\css\styles.css">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MineSweeper\css\styles.css">
       <PackagePath>css\styles.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\css\default.css">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MineSweeper\css\default.css">
       <PackagePath>css\default.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\images\flag.png">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MineSweeper\images\flag.png">
       <PackagePath>images\flag.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\images\logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MineSweeper\images\logo.scale-100.png">
       <PackagePath>images\logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\images\mine.png">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MineSweeper\images\mine.png">
       <PackagePath>images\mine.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\images\smalllogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MineSweeper\images\smalllogo.scale-100.png">
       <PackagePath>images\smalllogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\images\splashscreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MineSweeper\images\splashscreen.scale-100.png">
       <PackagePath>images\splashscreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\images\storelogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MineSweeper\images\storelogo.scale-100.png">
       <PackagePath>images\storelogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\images\git.jpg">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MineSweeper\images\git.jpg">
       <PackagePath>images\git.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\index.html">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MineSweeper\index.html">
       <PackagePath>index.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\js\minesweeper.js">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MineSweeper\js\minesweeper.js">
       <PackagePath>js\minesweeper.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\bin\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MineSweeper\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

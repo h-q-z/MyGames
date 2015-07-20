@@ -1,1 +1,1 @@
-C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\2048\2048.jsproj;neutral
+C:\Users\Helen\Documents\GitHub\MyGames\MyGames\2048\2048.jsproj;neutral

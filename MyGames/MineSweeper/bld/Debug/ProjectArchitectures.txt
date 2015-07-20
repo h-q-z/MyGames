@@ -1,1 +1,1 @@
-C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MyGames\MineSweeper\MineSweeper.jsproj;neutral
+C:\Users\Helen\Documents\GitHub\MyGames\MyGames\MineSweeper\MineSweeper.jsproj;neutral
